@@ -1,0 +1,14 @@
+pi-hole:
+  ip: ${PI_HOLE_IP_ADDRESS}
+  pass: ${PI_HOLE_PASSWORD}
+
+isp:
+  servers: []
+  threads: 1
+
+qnap:
+  ip: ${QNAP_IP_ADDRESS}
+  port: ${QNAP_PORT}
+  user: ${QNAP_USERNAME}
+  pass: ${QNAP_PASSWORD}
+

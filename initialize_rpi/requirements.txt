@@ -1,0 +1,8 @@
+Pillow==6.2.1
+speedtest-cli==2.1.2
+PiHole-api==2.0
+xmltodict==0.12.0
+qnapstats==0.3.0
+humanreadable==3.0.4
+mac-vendor-lookup==0.1.8
+get-mac==0.8.2
