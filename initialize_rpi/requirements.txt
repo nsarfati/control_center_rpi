@@ -1,4 +1,4 @@
-Pillow==6.2.1
+Pillow==8.3.2
 speedtest-cli==2.1.2
 PiHole-api==2.0
 xmltodict==0.12.0
